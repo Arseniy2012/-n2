@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    padding: 20px;
+}
+header a{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+.accent{
+    color: orangered;
+}
+h1{
+    text-align: center;
+}
+main img{
+    margin-left:150px ;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+main a{
+    text-decoration: none;
+    color: black;
+    margin-left: 280px;
+}
